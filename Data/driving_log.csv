@@ -1,4 +1,3 @@
-Center frame,Left Frame,Right Frame,Steering angle,Throttle,Break,Speed
 D:\Term-2\ML\project\dataset\IMG\center_2022_03_11_13_09_56_852.jpg, D:\Term-2\ML\project\dataset\IMG\left_2022_03_11_13_09_56_852.jpg, D:\Term-2\ML\project\dataset\IMG\right_2022_03_11_13_09_56_852.jpg,0,0,0,8.41E-05
 D:\Term-2\ML\project\dataset\IMG\center_2022_03_11_13_09_56_957.jpg, D:\Term-2\ML\project\dataset\IMG\left_2022_03_11_13_09_56_957.jpg, D:\Term-2\ML\project\dataset\IMG\right_2022_03_11_13_09_56_957.jpg,0,0,0,7.79E-05
 D:\Term-2\ML\project\dataset\IMG\center_2022_03_11_13_09_57_059.jpg, D:\Term-2\ML\project\dataset\IMG\left_2022_03_11_13_09_57_059.jpg, D:\Term-2\ML\project\dataset\IMG\right_2022_03_11_13_09_57_059.jpg,0,0,0,7.81E-05
